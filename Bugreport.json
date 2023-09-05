@@ -8,7 +8,7 @@
           "4.Click item [CFD-Handel]" ,
           "5.Select link [Was ist der Unterschied zwischen Aktien und CFD?] on Sidebar",
           "6.Scroll down to the widjet "Most traded",
-"Expected Result" : "Image is displayed", 
+"Expected Result" : "Image is displayed",
 "Actual Result" : "Image is not displayed"
 
 } 
